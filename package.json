@@ -1,0 +1,19 @@
+{
+  "name": "nodejshighavailability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisrajzlive/nodejshighavailability.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisrajzlive/nodejshighavailability/issues"
+  },
+  "homepage": "https://github.com/krisrajzlive/nodejshighavailability#readme"
+}
